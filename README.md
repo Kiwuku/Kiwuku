@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Kiwuku
-- 👀 I’m interested in code for making daily life easyer and well organised
-- 🌱 I’m always learning, in all areas of life!
-- 💞️ I’m looking to support time-waste reduction
-- 📫 How to reach me ... here?
+- 👋 Hi, I’m @Kiwuku and totally newbie in github.
+- 👀 I’m interested in software for making daily life easyer and well organised.
+- 🌱 I’m always learning new stuff in all areas of life.
+- 📫 How to reach me ... well ... here?
 
 <!---
 Kiwuku/Kiwuku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
