@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Kiwuku and totally newbie in github.
+- 👋 Hi, I’m Francisco (@Kiwuku here) and totally newbie in github.
 - 👀 I’m interested in software for making daily life easyer and well organised.
+- 📷 I love Photography (and its organization) and an important part of my contribution here will be related with this topic.
 - 🌱 I’m always learning new stuff in all areas of life.
 - 📫 How to reach me ... well ... here?
 
